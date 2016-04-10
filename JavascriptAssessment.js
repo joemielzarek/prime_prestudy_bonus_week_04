@@ -26,7 +26,7 @@ var raphael = function(value, anotherValue, yetAnotherValue){
 //Newly created function
 var splinter = function(number1, number2) {
 	var z = number1 * number2;
-	var pizza = [number1, number2, z]
+	var pizza = [number1, number2, z];
 	return pizza;
 }
 
